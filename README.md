@@ -2,6 +2,8 @@ challengeperformance-pavh
 Clona el repositorio o importalo
 
 git clone https://github.com/iori22/challengeperformance-pavh.git
+Recuerda debes estar en master!
+
 *** Requisitos previos: Java JDK 8 o superior *** Verifica con: java -version Si no está instalado, descárgalo desde: https://www.oracle.com/java/technologies/javase-downloads.html o usa OpenJDK: https://adoptopenjdk.net/
 
 Instalar JMETER
