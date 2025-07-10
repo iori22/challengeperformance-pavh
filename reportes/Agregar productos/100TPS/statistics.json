@@ -1,0 +1,50 @@
+{
+  "API-Login-POST" : {
+    "transaction" : "API-Login-POST",
+    "sampleCount" : 2594,
+    "errorCount" : 54,
+    "errorPct" : 2.081727,
+    "meanResTime" : 236.0185042405547,
+    "medianResTime" : 310.0,
+    "minResTime" : 102.0,
+    "maxResTime" : 1316.0,
+    "pct1ResTime" : 320.0,
+    "pct2ResTime" : 325.0,
+    "pct3ResTime" : 347.0,
+    "throughput" : 0.030848141342996543,
+    "receivedKBytesPerSec" : 0.07471974916233441,
+    "sentKBytesPerSec" : 0.007742160473779407
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 5178,
+    "errorCount" : 104,
+    "errorPct" : 2.0084975,
+    "meanResTime" : 170.23329470838155,
+    "medianResTime" : 104.0,
+    "minResTime" : 100.0,
+    "maxResTime" : 1316.0,
+    "pct1ResTime" : 315.0,
+    "pct2ResTime" : 320.0,
+    "pct3ResTime" : 334.0,
+    "throughput" : 0.061577361555141145,
+    "receivedKBytesPerSec" : 0.09585677237853381,
+    "sentKBytesPerSec" : 0.02582013502647095
+  },
+  "API-Products-Add-POST" : {
+    "transaction" : "API-Products-Add-POST",
+    "sampleCount" : 2584,
+    "errorCount" : 50,
+    "errorPct" : 1.9349846,
+    "meanResTime" : 104.19349845201252,
+    "medianResTime" : 103.0,
+    "minResTime" : 100.0,
+    "maxResTime" : 454.0,
+    "pct1ResTime" : 108.5,
+    "pct2ResTime" : 112.0,
+    "pct3ResTime" : 118.0,
+    "throughput" : 0.030730365529254258,
+    "receivedKBytesPerSec" : 0.021137811019930487,
+    "sentKBytesPerSec" : 0.018078648341789356
+  }
+}
